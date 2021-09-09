@@ -12,7 +12,7 @@ If you wanted to create a new directory and initialize a git repository, you can
  Init will create the repository in the current directory and will encapsulate all content, including other directories.
 
   ## Resources
-  - [Git Init Documentation](http;//git-scm.com/docs/git-init)
+  - [Git Init Documentation](http://git-scm.com/docs/git-init)
   ---
   [Back to home](../READ.md)
   

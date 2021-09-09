@@ -9,7 +9,7 @@ For example, your identity can be set up with the commands such as:
   For more information, view the [first time git setup](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
   ) documentation. 
   ## Resources
-  - [Git Config Documentation](http;//git-scm.com/docs/git-config)
+  - [Git Config Documentation](http://git-scm.com/docs/git-config)
   ---
   [Back to home](../READ.md)
   

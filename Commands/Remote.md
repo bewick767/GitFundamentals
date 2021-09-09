@@ -17,7 +17,7 @@ A remote can be removed with the `git remote remove` command, followed by the na
     git remote remove origin
 
  ## Resources
-  - [Git Remote Documentation](http;//git-scm.com/docs/git-remote)
+  - [Git Remote Documentation](http://git-scm.com/docs/git-remote)
   ---
   [Back to home](../READ.md)
   
