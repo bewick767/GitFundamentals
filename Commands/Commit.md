@@ -12,7 +12,7 @@ For example, if we have an application we're working on where we just built out 
 Then when viewing the history of a git repository, you can pinpoint where the registration functionality was added.
 
  ## Resources
-  - [Git Commit Documentation](http://git-scm.com/docs/git-commit)
+  - [Git Commit Documentation](https://git-scm.com/docs/git-commit)
   ---
   [Back to home](../READ.md)
   

@@ -17,7 +17,7 @@ Before doing so, you'll need to use the `-u` or `--set-upstream` flag. This can 
     git push -u origin main
 After this command is used, you can just use `git push` and it will fuction the same way. 
  ## Resources
-  - [Git Push Documentation](http://git-scm.com/docs/git-push)
+  - [Git Push Documentation](https://git-scm.com/docs/git-push)
   ---
   [Back to home](./READ.md)
   
